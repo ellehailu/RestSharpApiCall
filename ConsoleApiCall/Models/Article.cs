@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace ApiTest
 {
-    public class Article
+    class Article
     {
         public string Section { get; set; }
         public string Title { get; set; }
